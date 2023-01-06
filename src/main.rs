@@ -4,7 +4,7 @@ use api::taks::{
     get_task,
 }
 
-use actirx_web::{App, HttpServer, web::Data, middleware::Logger};
+use actix_web::{App, HttpServer, web::Data, middleware::Logger};
 
 #[actix_web::main] 
 
