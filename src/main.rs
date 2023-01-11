@@ -1,6 +1,6 @@
 mod api;
 
-use api::taks::{
+use api::task::{
     get_task,
 }
 
